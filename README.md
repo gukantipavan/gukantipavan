@@ -4,8 +4,9 @@ Hi! I'm Gukanti Pavan, currently diving deep into AWS and DevOps to build my ski
 
 ## 🛠 Skills & Tools
 - **Cloud:** AWS
-- **DevOps:** Jenkins, Ansible, Docker
+- **DevOps:** Jenkins, Ansible, Docker,kubernetes,helm
 - **Programming:** SQL, Python (Basic)
+- **version:** github,gitactions
 
 ## 🎯 Current Focus
 - **Learning:** AWS Cloud and DevOps practices
